@@ -7134,7 +7134,7 @@ PrefabInstance:
     - target: {fileID: 469112374399510769, guid: e7bc382cb8f2e7e49883167ef33dbdb9, type: 3}
       propertyPath: sceneTransition
       value: 
-      objectReference: {fileID: 11400000, guid: 4087c19bcba6edc4797c4a336648fc2d, type: 2}
+      objectReference: {fileID: 11400000, guid: e7d1f61ddef6bb24d8c8470d97d4d7c5, type: 2}
     - target: {fileID: 469112374399510774, guid: e7bc382cb8f2e7e49883167ef33dbdb9, type: 3}
       propertyPath: m_Name
       value: ST_GameScene
@@ -7481,11 +7481,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4273486732604492176, guid: a0867ff881994074e9373cf537389d10, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.5
+      value: -3.5
       objectReference: {fileID: 0}
     - target: {fileID: 4273486732604492176, guid: a0867ff881994074e9373cf537389d10, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.5
+      value: -1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4273486732604492176, guid: a0867ff881994074e9373cf537389d10, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7534,7 +7534,7 @@ PrefabInstance:
     - target: {fileID: 4273486732604492206, guid: a0867ff881994074e9373cf537389d10, type: 3}
       propertyPath: item
       value: 
-      objectReference: {fileID: 11400000, guid: 0aff2248d1cf3104a8f44cc2089cec70, type: 2}
+      objectReference: {fileID: 11400000, guid: 3a24847539181f546a844282d1918f32, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a0867ff881994074e9373cf537389d10, type: 3}
 --- !u!1001 &9142104621334250422

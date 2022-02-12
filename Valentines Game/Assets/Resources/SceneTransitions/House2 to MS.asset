@@ -9,10 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 406f0b5c25bbfcb409b0544da508239f, type: 3}
-  m_Name: Graduation
+  m_Script: {fileID: 11500000, guid: 1b8a532b6dcc16a4da331d6d35b1d8e2, type: 3}
+  m_Name: House2 to MS
   m_EditorClassIdentifier: 
-  itemName: Graduation
-  description: 
-  icon: {fileID: 0}
-  stackSize: 0
+  spawnPos: {fileID: 11400000, guid: c19925e9eaa032947b4245fcf81f7f61, type: 2}
+  exitPos: {x: -8.5, y: 8.5}
+  targetScene: GameScene

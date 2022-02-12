@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 406f0b5c25bbfcb409b0544da508239f, type: 3}
   m_Name: Mexico
   m_EditorClassIdentifier: 
-  itemName: 
+  itemName: Mexico
   description: 
   icon: {fileID: 0}
   stackSize: 0

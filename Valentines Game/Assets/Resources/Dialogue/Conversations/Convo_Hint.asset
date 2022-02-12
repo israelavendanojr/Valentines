@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13c5308cbc2bb614db457021f244cdc7, type: 3}
+  m_Name: Convo_Hint
+  m_EditorClassIdentifier: 
+  dialogue:
+  - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
+    dialogue: If you're having trouble finding memories in this area try following
+      the rocks!
+    delay: 0.35

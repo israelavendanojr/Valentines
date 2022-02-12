@@ -310,7 +310,7 @@ MonoBehaviour:
   groundTilemap: {fileID: 0}
   colTilemap: {fileID: 0}
   spawnpoint: {fileID: 11400000, guid: c19925e9eaa032947b4245fcf81f7f61, type: 2}
-  speed: 0.2
+  speed: 0.23
 --- !u!114 &2190306801550478375
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: House1 to MS
   m_EditorClassIdentifier: 
   spawnPos: {fileID: 11400000, guid: c19925e9eaa032947b4245fcf81f7f61, type: 2}
-  exitPos: {x: 3.5, y: 6.5}
-  targetScene: TestScene
+  exitPos: {x: 5.5, y: -6.5}
+  targetScene: GameScene
