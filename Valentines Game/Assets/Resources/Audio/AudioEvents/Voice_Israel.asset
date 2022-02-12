@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a017d51a44d37e4598ddefb2bd6fb93, type: 3}
   m_Name: Voice_Israel
   m_EditorClassIdentifier: 
-  clip: {fileID: 8300000, guid: 2045c9dbafee9b44994431b705ce8ac5, type: 3}
+  clip: {fileID: 8300000, guid: 46b46ce67e8dbf14f9da8c12418ff9b1, type: 3}
   output: {fileID: 0}
   volume: 0.1
-  pitch: 0.9
+  pitch: 1.2
   loop: 0
