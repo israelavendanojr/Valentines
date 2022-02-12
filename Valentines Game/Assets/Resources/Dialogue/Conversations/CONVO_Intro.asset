@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13c5308cbc2bb614db457021f244cdc7, type: 3}
+  m_Name: CONVO_Intro
+  m_EditorClassIdentifier: 
+  dialogue:
+  - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
+    dialogue: 'Hi luv, happy 2 years! '
+    delay: 0.4
+  - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
+    dialogue: I made this game for you :)
+    delay: 0.6
+  - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
+    dialogue: I've placed some of my favorite memories of us around the world...
+    delay: 0.4
+  - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
+    dialogue: Go find them!
+    delay: 0.4
