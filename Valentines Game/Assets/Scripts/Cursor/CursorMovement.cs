@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
 
 public class CursorMovement : MonoBehaviour
 {
@@ -65,6 +66,17 @@ public class CursorMovement : MonoBehaviour
 
         foreach (Transform t in buttonParent.transform)
             buttonPos.Add(t);
+
+        Image cursorSprite = transform.Find("Icon").GetComponent<Image>();
+        if (0 < buttonPos.Count)
+        {
+            transform.position = buttonPos[0].position;
+            cursorSprite.enabled = true;
+        }
+        else
+        {
+            cursorSprite.enabled = false;
+        }
     }
     public void FindButtons()
     {

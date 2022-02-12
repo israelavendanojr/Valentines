@@ -7,10 +7,10 @@ using TMPro;
 public class UI_ItemSlot : MonoBehaviour
 {
     Image icon;
-     public string itemName, description;
+    public string itemName, description;
     private void Awake()
     {
-        icon = GetComponentInChildren<Image>();
+        icon = transform.Find("Icon").GetComponentInChildren<Image>();
     }
     public void Set(InventorySlot item)
     {

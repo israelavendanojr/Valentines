@@ -7,6 +7,10 @@ public class UI_Inventory : MonoBehaviour
 {
     [SerializeField] SO_Inventory inventory;
     [SerializeField] GameObject itemSlotPrefab;
+    private void Start()
+    {
+        OnUpdateInventory();
+    }
     public void OnUpdateInventory()
     {
         foreach(Transform t in transform)

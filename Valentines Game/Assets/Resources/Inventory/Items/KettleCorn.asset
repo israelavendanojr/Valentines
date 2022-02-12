@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemName: Kettle Corn
   description: From the xmas lights, this kettle corn smacks
-  icon: {fileID: 0}
+  icon: {fileID: -3727887130177446384, guid: 9fa6c280b30d95949b9220e224d165a7, type: 3}
   stackSize: 0

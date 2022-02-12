@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemName: Chuck. Dr
   description: Where we first said ILY
-  icon: {fileID: 0}
+  icon: {fileID: -7807852705376614619, guid: 9fa6c280b30d95949b9220e224d165a7, type: 3}
   stackSize: 0
