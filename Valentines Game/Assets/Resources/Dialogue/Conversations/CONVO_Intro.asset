@@ -20,7 +20,7 @@ MonoBehaviour:
     dialogue: I made this game for you :)
     delay: 0.6
   - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
-    dialogue: I've placed some of my favorite memories of us around the world...
+    dialogue: I've placed some of my favorite memories of us around the map...
     delay: 0.4
   - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
     dialogue: Go find them!

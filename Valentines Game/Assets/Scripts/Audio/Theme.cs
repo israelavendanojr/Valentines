@@ -7,8 +7,17 @@ public class Theme : MonoBehaviour
     [SerializeField] SimpleAudioEvent theme;
     void Start()
     {
-        theme.Play();
-        GameObject themeGO = GameObject.Find("Audio Event: " + theme.name);
-        DontDestroyOnLoad(themeGO);
+        if (GameObject.Find("Audio Event: " + theme.name) == null)
+        {
+            theme.Play();
+            GameObject themeGO = GameObject.Find("Audio Event: " + theme.name);
+            DontDestroyOnLoad(themeGO);
+        }
+        else
+        {
+            Destroy(gameObject);
+            return;
+
+        }
     }
 }

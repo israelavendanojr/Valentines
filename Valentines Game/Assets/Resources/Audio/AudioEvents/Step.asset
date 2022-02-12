@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Step
   m_EditorClassIdentifier: 
   clip: {fileID: 8300000, guid: 4c4535fbacee05642838442236a0d1b3, type: 3}
-  output: {fileID: 0}
+  output: {fileID: 24300002, guid: c32ac1ab3021d9f4eaca20f058903fa0, type: 2}
   volume: 0.01
   pitch: 1.35
   loop: 0
