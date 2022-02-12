@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogue:
   - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
-    dialogue: 'Hi luv, happy 2 years! '
-    delay: 0.4
+    dialogue: "Hi luv, happy 2 years! \n\n(press \"z\")"
+    delay: 0.3
   - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
     dialogue: I made this game for you :)
     delay: 0.6
@@ -23,5 +23,17 @@ MonoBehaviour:
     dialogue: I've placed some of my favorite memories of us around the map...
     delay: 0.4
   - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
-    dialogue: Go find them!
+    dialogue: they'll look like hearts...
     delay: 0.4
+  - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
+    dialogue: you can move around with your arrow keys...
+    delay: 0.5
+  - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
+    dialogue: and you have 3 buttons...
+    delay: 0.4
+  - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
+    dialogue: select (z), deselect (x), and your inventory (c)...
+    delay: 0.6
+  - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
+    dialogue: 'read about every memory you find in your inventory (c) '
+    delay: 0.5

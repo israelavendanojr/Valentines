@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4c5c19df7745574fa0bb2a7848274f6, type: 3}
   m_Name: PlayerSpawn
   m_EditorClassIdentifier: 
-  position: {x: -8.5, y: 8.5, z: 0}
+  position: {x: -9.5, y: 7.5, z: 0}
