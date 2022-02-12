@@ -6,7 +6,7 @@ using TMPro;
 public class DialogueManager : MonoBehaviour
 {
     VerticalTweenUI tween;
-    [SerializeField] TextMeshProUGUI dialougeText;
+    [SerializeField] TextMeshProUGUI nameText, dialougeText;
     public Queue<DialogueLine> sentences = new Queue<DialogueLine>();
     DialogueLine currentSentence;
     private bool inDialouge = false;
@@ -58,7 +58,7 @@ public class DialogueManager : MonoBehaviour
     {
         isTyping = false;
         StopAllCoroutines();
-        dialougeText.text = currentSentence.speaker.speakerName + ": " + currentSentence.dialogue;
+        dialougeText.text = currentSentence.dialogue;
     }
     void EndDialogue()
     {
@@ -70,7 +70,8 @@ public class DialogueManager : MonoBehaviour
     {
         isTyping = true;
 
-        dialougeText.text = line.speaker.speakerName + ": ";
+        nameText.text = line.speaker.speakerName + ": ";
+        dialougeText.text = null;
         for (int i = 0; i < line.dialogue.Length; i++)
         {
             dialougeText.text += line.dialogue[i];

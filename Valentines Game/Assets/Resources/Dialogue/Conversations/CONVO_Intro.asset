@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogue:
   - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
-    dialogue: "Hi luv, happy 2 years! \n\n(press \"z\")"
+    dialogue: "Hi luv, happy valentines day! \n\n(press \"z\")"
     delay: 0.3
   - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
     dialogue: I made this game for you :)

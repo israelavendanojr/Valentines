@@ -46,6 +46,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentSpawnpoint: {fileID: 0}
   inventory: {fileID: 11400000, guid: 1ef2520f88471fd458acfe3d337ac45e, type: 2}
+  winEvent: {fileID: 11400000, guid: e4f2baef2050e9d4a82f00c6c213300a, type: 2}
 --- !u!114 &662669232758512459
 MonoBehaviour:
   m_ObjectHideFlags: 0
