@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: Mexico
   m_EditorClassIdentifier: 
   itemName: Mexico
-  description: 
+  description: 'Visiting your mom and mexico was a nice trip. Your mom was super
+    nice and she made really good food. I also like how Petatlan was calm and quiet.
+    Now I''ll crave Atole. '
   icon: {fileID: 1544850953348435063, guid: 9fa6c280b30d95949b9220e224d165a7, type: 3}
   stackSize: 0

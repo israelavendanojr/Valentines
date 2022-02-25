@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 406f0b5c25bbfcb409b0544da508239f, type: 3}
   m_Name: Stethascope
   m_EditorClassIdentifier: 
-  itemName: Stethascope
-  description: From halloween at Jullisa's house, wish you could've stayed longer
+  itemName: Halloween
+  description: Halloween at Julissa's house. I wish you could've spent the night
+    like the rest of us, but I was glad you were there nonetheless. I wouldn't want
+    to go if it had to be without you again
   icon: {fileID: -5707460079008079287, guid: 9fa6c280b30d95949b9220e224d165a7, type: 3}
   stackSize: 0

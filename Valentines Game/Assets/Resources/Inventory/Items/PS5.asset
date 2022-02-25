@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 406f0b5c25bbfcb409b0544da508239f, type: 3}
   m_Name: PS5
   m_EditorClassIdentifier: 
-  itemName: Ps5
-  description: 
+  itemName: Playstation 5
+  description: I'm still very thankful for this gift, I've put so many hours into
+    the console. And there are even games we play together. I can't wait to finish
+    sackboy so I can see what we play next.
   icon: {fileID: -4380278413240271071, guid: 9fa6c280b30d95949b9220e224d165a7, type: 3}
   stackSize: 0

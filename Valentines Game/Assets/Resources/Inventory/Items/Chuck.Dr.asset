@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 406f0b5c25bbfcb409b0544da508239f, type: 3}
   m_Name: Chuck.Dr
   m_EditorClassIdentifier: 
-  itemName: Chuck. Dr
-  description: Where we first said ILY
+  itemName: Chuckanut Drive
+  description: We should come visit here again. I'll always remember it as the first
+    place we said "I love you". I was pretty nervous saying it, so I totally messed
+    it up haha, but you said it back so I was still happy
   icon: {fileID: -7807852705376614619, guid: 9fa6c280b30d95949b9220e224d165a7, type: 3}
   stackSize: 0

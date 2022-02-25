@@ -37,8 +37,10 @@ public class CursorDetection : MonoBehaviour
         {
             //Debug.Log(results[0].gameObject.name);
             return true;
+
         }
 
+        //Debug.Log(results[0].gameObject.name);
         return false;
     }
     void SetButton(Transform raycastedCharacter)

@@ -14,11 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogue:
   - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
-    dialogue: You found all of them!
-    delay: 0.6
-  - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
-    dialogue: 'happy valentines day! '
-    delay: 0.6
+    dialogue: You found all of the items!
+    delay: 0.5
   - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
     dialogue: I hope you had fun <3
     delay: 0.4
+  - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
+    dialogue: 'You can read through all the items again in the gallery page in the
+      main menu '
+    delay: 0.3
+  - speaker: {fileID: 11400000, guid: d163b63407b08f744886ddd0fcbc48a3, type: 2}
+    dialogue: 'happy anniversary! '
+    delay: 0.6

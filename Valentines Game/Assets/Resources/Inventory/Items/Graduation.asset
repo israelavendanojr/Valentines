@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: Graduation
   m_EditorClassIdentifier: 
   itemName: Graduation
-  description: 
+  description: Online school sucked, but im glad we were still able to graduate.
+    Going to take our graduation pictures together was also nice. I remember you
+    got like $900 on graduation day, I think i got $80
   icon: {fileID: 3718472063753370142, guid: 9fa6c280b30d95949b9220e224d165a7, type: 3}
   stackSize: 0

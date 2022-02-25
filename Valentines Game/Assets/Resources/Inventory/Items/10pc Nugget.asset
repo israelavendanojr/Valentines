@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 406f0b5c25bbfcb409b0544da508239f, type: 3}
   m_Name: 10pc Nugget
   m_EditorClassIdentifier: 
-  itemName: 10pc Nugget
-  description: An empty nugget box, from tolo
+  itemName: McDonalds
+  description: We spent so much time together at work, I miss that part of working
+    there. Sometimes I wonder if we'd still be there if we became managers. Thanks
+    for always getting me water and for the job in general
   icon: {fileID: 6660749177482423811, guid: 9fa6c280b30d95949b9220e224d165a7, type: 3}
   stackSize: 0

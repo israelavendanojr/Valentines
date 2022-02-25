@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 406f0b5c25bbfcb409b0544da508239f, type: 3}
   m_Name: MODS Pizza
   m_EditorClassIdentifier: 
-  itemName: Pizza Box
-  description: From our first date at MODS <3 You looked so cute and I was so nervous
+  itemName: First Date
+  description: 'Our first date at MOD''s Pizza, after weeks of waiting for you to
+    come back from Mexico. I remember you barely ate ._. and I didn''t really like
+    my toppings. But it was the start of our relationship, so I wouldn''t want it
+    any other way. '
   icon: {fileID: 5938912915919555698, guid: 9fa6c280b30d95949b9220e224d165a7, type: 3}
   stackSize: 0

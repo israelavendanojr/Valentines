@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 406f0b5c25bbfcb409b0544da508239f, type: 3}
   m_Name: Wedding Ring
   m_EditorClassIdentifier: 
-  itemName: Wedding
-  description: 
+  itemName: Future
+  description: I can't wait for what we have left to come, living together, getting
+    pets and kids, and getting married. We have the rest fof our lives together,
+    so lets not rush. I love you so much
   icon: {fileID: -852920116970684301, guid: 9fa6c280b30d95949b9220e224d165a7, type: 3}
   stackSize: 0
