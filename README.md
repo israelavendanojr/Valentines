@@ -1,2 +1,2 @@
 # Valentines
-Valentines gift for my gf
+Valentines day game I made for my gf :)
